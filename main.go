@@ -19,7 +19,7 @@ func binarySearch(arr []int, target int) int {
 		}
 	}
 
-	return -1 // Element not found
+	return -1
 }
 
 func main() {
